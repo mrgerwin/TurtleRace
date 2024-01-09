@@ -14,8 +14,13 @@ def leftU():
     leftcorner()
 
 def rightU():
-    #delete pass and use this section to program a rightU
-    pass
+    right(45)
+    forward(20)
+    right(45)
+    forward(10)
+    right(45)
+    forward(20)
+    right(45)
 
 screen = Screen()
 screen.bgpic('Race2.png')
@@ -25,5 +30,19 @@ penup()
 goto(-5,-65)
 pendown()
 
-#### start using the functions below this line.
+#### DO NOT MODIFY ANYTHING ABOVE HERE
 
+straightaway()
+leftcorner()
+straightaway()
+leftcorner()
+straightaway()
+forward(75)
+leftcorner()
+forward(20)
+leftcorner()
+forward(75)
+rightU()
+forward(75)
+leftU()
+forward(75)
