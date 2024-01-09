@@ -8,8 +8,16 @@ Potential discussion questions.
 4. How would you complete two laps using the code?
 5. Is there an easier way to complete two laps without rewriting all of the commands?
 
-Extension:  Students can use Race2.py to start incorporating loops when going around corners.
-Perhaps use functions to make a turn left corner, turn right corner, straight away procedure.
+Students can use Race2.py to start incorporating functions to make a turn left corner, turn right corner, straight away procedure.
+Students will write their own rightU function which they can model after the leftU function.
+Students will learn how to encapsulate code into a function.  They will learn how to call functions.  They will learn how to modify functions.
+Potential discussion questions.
+1. What is a function?
+2. Why would you use them?
+3. How does it make the code more readable?
+4. How does it make the code shorter?
+5. How does it make the code easier to fix or debug?
+6. Can you call a function inside of another function? Explain.
 
 Use Race4.py to start adding keyboard functionality.  Explain event handlers.  Use Race4withKeys.py as a final version of this.
 potential discussion questions.
