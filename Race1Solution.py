@@ -1,0 +1,35 @@
+from turtle import *
+
+screen = Screen()
+screen.bgpic('Race1.png')
+screen.setup(width=257, height=170)
+
+penup()
+goto(-20,-60)
+pendown()
+
+#### DO NOT MODIFY ANYTHING ABOVE HERE
+
+forward(50)
+left(60)
+forward(30)
+left(30)
+forward(30)
+right(90)
+forward(50)
+left(90)
+forward(50)
+left(45)
+forward(25)
+left(45)
+forward(60)
+left(60)
+forward(70)
+right(60)
+forward(75)
+left(90)
+forward(50)
+left(45)
+forward(20)
+left(45)
+forward(80)
